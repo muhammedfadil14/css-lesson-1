@@ -1,0 +1,22 @@
+h3
+{
+    color: greenyellow;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#fff
+{
+    color: brown;
+}
+.demo1
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+h4,h5
+{
+color: aqua;
+}
+*
+{
+    background-color: purple;
+}
